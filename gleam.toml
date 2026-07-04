@@ -8,13 +8,12 @@ links = [
 ]
 
 [dependencies]
-gleam_stdlib = ">= 0.44.0 and < 2.0.0"
 gleam_time = ">= 1.7.0 and < 2.0.0"
 murmur3a = ">= 1.0.1 and < 2.0.0"
 gleam_community_colour = ">= 2.0.4 and < 3.0.0"
+gleam_stdlib = ">= 0.71.0 and < 1.0.0"
 
 [dev-dependencies]
 gleeunit = ">= 1.0.0 and < 2.0.0"
-birdie = ">= 1.5.4 and < 2.0.0"
 gleam_crypto = ">= 1.5.1 and < 2.0.0"
-simplifile = ">= 2.3.2 and < 3.0.0"
+birdie = ">= 2.0.1 and < 3.0.0"
